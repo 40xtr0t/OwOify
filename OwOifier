@@ -69,7 +69,7 @@ sg.Parent = playerGui
 
 local mainFrame = Instance.new("Frame")
 mainFrame.AnchorPoint = Vector2.new(0, 1)
-mainFrame.Position = UDim2.new(0, 30, 1, -240)
+mainFrame.Position = UDim2.new(0, 30, 1, -200)
 mainFrame.Size = UDim2.new(0.38, 0, 0, 42)
 mainFrame.BackgroundColor3 = Color3.fromRGB(25, 25, 35)
 mainFrame.BackgroundTransparency = 0.4
